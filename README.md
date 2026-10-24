@@ -1,3 +1,4 @@
+### 📂 STAC WARS Repository Guide
 * **PS 2 (Solar Radiation Analysis & Website)**: Located in the main repository root below (`voyage123_solar_analysis.py`, `.ipynb`, `REPORT.md`, `index.html`, `plots/`)
 * **PS 4**: Located in the (`TEAM ROCKET PS4 STAC`)
 * **PS 3**: Located in the (`TEAM ROCKET PS3 STAC`)
