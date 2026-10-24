@@ -3,7 +3,7 @@
 * **PS 3**: Located in the (`TEAM ROCKET PS3 STAC`)
 
 # STAC WARS · PS 2 — Solar Radiation Analysis & Prediction Report
-# 🚀 [Click Here to Open the Interactive Presentation Website (Live Demo)](https://<your-username>.github.io/<your-repo-name>/)
+# 🚀 [Click Here to Open the Interactive Presentation Website (Live Demo)](https://masterpiece110.github.io/Team-Rocket-PS-STAC/)
 ### 📂 STAC WARS Repository Guide
 **Mission:** *Voyage-123 Decoded: Read the Sun, Power the Rebellion*  
 **Dataset:** `SolarPrediction.csv` (`32,686` observations · `118` active days · `2016-09-01` to `2016-12-31`)
