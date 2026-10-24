@@ -1,3 +1,8 @@
+### 📂 STAC WARS Repository Guide
+* **PS 2 (Solar Radiation Analysis & Website)**: Located in the main repository root below (`voyage123_solar_analysis.py`, `.ipynb`, `REPORT.md`, `index.html`, `plots/`)
+* **PS 4**: Located in the (`TEAM ROCKET PS4 STAC`)
+* **PS 3**: Located in the (`TEAM ROCKET PS3 STAC`)
+
 # STAC WARS · PS 2 — Solar Radiation Analysis & Prediction Report
 **Mission:** *Voyage-123 Decoded: Read the Sun, Power the Rebellion*  
 **Dataset:** `SolarPrediction.csv` (`32,686` observations · `118` active days · `2016-09-01` to `2016-12-31`)
